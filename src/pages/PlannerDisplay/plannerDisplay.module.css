@@ -1,0 +1,49 @@
+/* Header css */
+.plannerDisplay__main{
+    display: flex;
+    max-width: 1170px;
+    margin: 0 auto;
+}
+.typeHead, .dueDateHead{
+    flex: 1;
+    text-align: center;
+    border: 1px solid;
+    padding: 1rem 0.26rem;
+    
+}
+.PlanHead{
+    flex: 4;
+    text-align: center;
+    border: 1px solid;
+    padding: 1rem;
+    
+}
+
+/* Dynamic data css*/
+
+.dataDynamic{
+    display: flex;
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+.PlanDynamic{
+    flex: 4;
+    text-align: center;
+    border: 1px solid;
+  
+}
+
+.typeDynamic, .dueDateDynamic{
+    flex: 1;
+    text-align: center;
+    border: 1px solid;
+   
+    
+}
+
+.types{
+    margin-top: 0.2rem;
+    border-bottom: 1px solid;
+    padding: 1rem 0rem;
+}

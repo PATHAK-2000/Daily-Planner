@@ -1,0 +1,41 @@
+/* main component */
+.navbar__main {
+  background-color: rgb(243, 208, 142);
+}
+
+.nav__sub {
+  display: flex;
+  max-width: 1200px;
+  align-items: center;
+  margin: 0 auto;
+}
+
+/* logo css */
+.logo {
+  flex: 1;
+}
+
+.logo img {
+  width: 8%;
+  height: 74px;
+  cursor: pointer;
+}
+
+/* Login/signup text */
+.user__logins {
+  display: flex;
+}
+
+.login h3,
+.signup h3 {
+  cursor: pointer;
+  color: black;
+}
+
+.signup {
+  margin-left: 1rem;
+}
+
+.logout{
+  color: black;
+}

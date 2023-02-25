@@ -1,0 +1,47 @@
+.home__main {
+  display: block;
+  margin: 0 auto;
+}
+
+.home__title {
+  margin-top: 10rem;
+}
+
+.home__title h1 {
+  font-size: 55px;
+  width: 31%;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  line-height: 120%;
+}
+
+.home__title p {
+  font-size: 19px;
+
+  width: 22%;
+  line-height: 145%;
+  text-align: center;
+  display: block;
+  margin: 1rem auto;
+}
+
+.sign_up {
+  text-align: center;
+}
+
+.sign_up button {
+  margin-top: 2rem;
+  padding: 0.5rem 1.5rem;
+  border: none;
+  border-radius: 50px;
+  background-color: #dc4d3d;
+  color: white;
+  font-size: 16px;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.btn {
+  color: white;
+}
