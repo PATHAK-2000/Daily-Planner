@@ -156,6 +156,9 @@ const Planner = () => {
         userinput={finalUserInput}
         type={finalType}
         dueDate={finalDueDate}
+        setFinalType = {setFinalType}
+        setFinalDueDate = {setFinalDueDate}
+        setFinalUserInput = {setFinalUserInput}
       />
     </>
   );

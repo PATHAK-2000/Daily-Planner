@@ -4,7 +4,7 @@
     max-width: 1170px;
     margin: 0 auto;
 }
-.typeHead, .dueDateHead{
+.typeHead, .dueDateHead, .updateDelete{
     flex: 1;
     text-align: center;
     border: 1px solid;
@@ -47,3 +47,4 @@
     border-bottom: 1px solid;
     padding: 1rem 0rem;
 }
+
